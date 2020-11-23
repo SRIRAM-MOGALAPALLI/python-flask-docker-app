@@ -1,5 +1,7 @@
 # Practice App: Python Flask And Docker
 
+Courtesy & Followed this tutorial: https://www.docker.com/blog/containerized-python-development-part-1/
+
 ## Prerequisites
 
 - Install Docker
